@@ -17,7 +17,7 @@ To view this project on your local machine, follow these easy steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/puppy-lovers-page.git](https://github.com/your-username/puppy-lovers-page.git)
+   git clone [https://github.com/Adisu-Dev/puppy-lovers-page.git](https://github.com/adisu-dereje/puppy-lovers-page.git)
 2. Navigate to the project directory:
         cd puppy-lovers-page
 3. Open the index.html file in your preferred web browser (e.g., Google Chrome).
