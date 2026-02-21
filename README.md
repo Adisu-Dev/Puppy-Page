@@ -24,6 +24,6 @@ To view this project on your local machine, follow these easy steps:
     👨‍💻 Author
 Developed by: Adisu Dereje
 
-LinkedIn: in/adisu-dereje
+LinkedIn: [https://in/adisu-dereje](https://www.linkedin.com/in/adisu-dereje)
 
 GitHub: https://github.com/Adisu-Dev
